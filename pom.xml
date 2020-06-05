@@ -11,6 +11,7 @@
     <modules>
         <module>myspring_IOC</module>
         <module>spring-hellospring</module>
+        <module>spring-annotation</module>
     </modules>
 
     <dependencies>
