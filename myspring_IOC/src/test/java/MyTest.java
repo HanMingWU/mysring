@@ -1,6 +1,5 @@
-import hanmingwu.dao.UserDaoMysqllmpl;
-import hanmingwu.dao.UserDaoOlclmpl;
-import hanmingwu.service.UserServicelmpl;
+import fun.hanmingwu.dao.UserDaoOlclmpl;
+import fun.hanmingwu.service.UserServicelmpl;
 
 public class MyTest {
     public static void main(String[] args) {
